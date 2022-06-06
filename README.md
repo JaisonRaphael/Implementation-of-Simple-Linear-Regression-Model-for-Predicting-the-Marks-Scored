@@ -33,8 +33,8 @@ End the program.
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Vineesh.M
-RegisterNumber: 212221230122
+Developed by: JaisonRaphael.V
+RegisterNumber: 212221230038
 */
 import numpy as np
 import pandas as pd
@@ -68,9 +68,8 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](ml1.png)
-![simple linear regression model for predicting the marks scored](ml2.png)
-
+![](ml1.png)
+![](ml2.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
