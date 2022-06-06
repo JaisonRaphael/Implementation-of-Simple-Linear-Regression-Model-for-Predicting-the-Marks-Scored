@@ -68,8 +68,10 @@ plt.show()
 ```
 
 ## Output:
-![](ml1.png)
-![](ml2.png)
+![]![ml1](https://user-images.githubusercontent.com/94165957/172100841-1245cd38-e9f6-4c0f-8e68-112b0dbc46d3.png)
+
+![]![ml2](https://user-images.githubusercontent.com/94165957/172100868-c49eb25d-4e32-43d1-bcda-360f5f809a66.png)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
